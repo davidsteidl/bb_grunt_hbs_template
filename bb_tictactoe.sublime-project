@@ -1,0 +1,9 @@
+{
+	"folders":
+	[
+		{
+			"path": "/Users/David/Sites/bb_tictactoe",
+      "folder_exclude_patterns": ["node_modules",".sass-cache",".tmp"]
+		}
+	]
+}
